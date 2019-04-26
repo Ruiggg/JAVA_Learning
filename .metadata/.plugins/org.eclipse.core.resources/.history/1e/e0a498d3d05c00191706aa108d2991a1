@@ -1,6 +1,0 @@
-public class Gcd {
-	public static void main(String[] args) {
-		int gcd = Mulgcd(12,18,24,30);
-		System.out.println(gcd);
-	}
-}
