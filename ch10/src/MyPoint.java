@@ -17,6 +17,9 @@ public class MyPoint {
 	public double getY() {
 		return y;
 	}
+	public boolean inLine(MyPoint p1,MyPoint p2) {
+		return (x<p1.getX()&&x>p2.getX())||(x<p2.getX()&&x>p1.getX());
+	}
 	//method
 	public double distance(MyPoint point) {
 		double x = point.getX();
