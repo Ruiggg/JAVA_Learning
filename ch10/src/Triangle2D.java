@@ -70,7 +70,7 @@ public class Triangle2D {
 		System.out.println("Area: "+t1.getArea());
 		System.out.println("Perimeter: "+t1.getPerimeter());
 		System.out.println(t1.contains(new MyPoint(3,3)));
-		System.out.println(t1.contains(new Triangle2D(new MyPoint(2.9,2), new MyPoint(4,1), new MyPoint(2,5.5))));
+		System.out.println(t1.contains(new Triangle2D(new MyPoint(2.9,2), new MyPoint(4,1), new MyPoint(1,3.4))));
 		System.out.println(t1.overlaps(new Triangle2D(new MyPoint(), new MyPoint(), new MyPoint())));
 	}
 }

@@ -62,7 +62,7 @@ public class IntersectPoint {
 	}
 	
 	public static void main(String[] args) {
-		double x1,y1,x2,y2,x3,y3,x4,y4;
+		/*double x1,y1,x2,y2,x3,y3,x4,y4;
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter x1,y1,x2,y2,x3,y3.x4,y4: ");
 		x1 = input.nextDouble();
@@ -79,6 +79,14 @@ public class IntersectPoint {
 			System.out.println("The intersecting point is at ("+(int)(l.getX()*100000)/100000.0+
 					","+(int)(l.getY()*100000)/100000.0+")");
 		}else
-			System.out.println("The two lines are parallel.");
+			System.out.println("The two lines are parallel.");*/
+		MyPoint p1 = new MyPoint(1,1);
+		MyPoint p2 = new MyPoint(3,3);
+		MyPoint q1 = new MyPoint(-1,1);
+		MyPoint q2 = new MyPoint(2,-2);
+		IntersectPoint p = new IntersectPoint(p1, p2, q1, q2);
+		p.setP();
+		System.out.println("p: "+p.getP().getX()+","+p.getP().getY());
+		System.out.println(p.getP().inLine(p1, p2));
 	}
 }

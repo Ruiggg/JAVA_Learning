@@ -9,7 +9,8 @@
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="QueueOfIntergers"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="IntersectPoint"/>
 <fullyQualifiedTypeName name="Triangle2D"/>
 <fullyQualifiedTypeName name="MyPoint"/>
+<fullyQualifiedTypeName name="IntersectPoint"/>
+<fullyQualifiedTypeName name="MyRectangle2D"/>
 </qualifiedTypeNameHistroy>
