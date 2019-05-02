@@ -20,4 +20,6 @@
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="SimpleGeometricObject"/>
 <fullyQualifiedTypeName name="CircleFromSimpleGeometricObject"/>
+<fullyQualifiedTypeName name="RectangleFromSimpleGeometricObject"/>
+<fullyQualifiedTypeName name="MyString1"/>
 </qualifiedTypeNameHistroy>
