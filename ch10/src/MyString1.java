@@ -2,7 +2,12 @@ public class MyString1 {
 	private char[] string;
 	
 	public MyString1(char[] s) {
-		string = s;
+		string = new char[s.length];
+		int i = 0;
+		for(char e:s) {
+			string[i] = e;
+			i++;
+		}
 	}
 	
 	public char charAt(int index) {
