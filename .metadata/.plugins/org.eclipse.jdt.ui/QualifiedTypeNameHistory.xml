@@ -18,8 +18,10 @@
 <fullyQualifiedTypeName name="java.math.BigDecimal"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="SimpleGeometricObject"/>
 <fullyQualifiedTypeName name="CircleFromSimpleGeometricObject"/>
 <fullyQualifiedTypeName name="RectangleFromSimpleGeometricObject"/>
 <fullyQualifiedTypeName name="MyString1"/>
+<fullyQualifiedTypeName name="SimpleGeometricObject"/>
+<fullyQualifiedTypeName name="TriangleFromSimpleGeometricObject"/>
+<fullyQualifiedTypeName name="People.Employee"/>
 </qualifiedTypeNameHistroy>
