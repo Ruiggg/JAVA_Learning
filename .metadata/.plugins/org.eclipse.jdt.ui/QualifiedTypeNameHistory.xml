@@ -27,11 +27,19 @@
 <fullyQualifiedTypeName name="UseArrayList"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="NewMyStack"/>
 <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 <fullyQualifiedTypeName name="java.net.MalformedURLException"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="InputMismatchException"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="Hex2DecWithException"/>
+<fullyQualifiedTypeName name="HexFormatException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="BinaryFormatException"/>
+<fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
 </qualifiedTypeNameHistroy>
