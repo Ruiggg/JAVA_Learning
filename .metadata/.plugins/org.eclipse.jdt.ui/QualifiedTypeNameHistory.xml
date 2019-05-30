@@ -3,7 +3,6 @@
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.awt.datatransfer.StringSelection"/>
 <fullyQualifiedTypeName name="Course"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="QueueOfIntergers"/>
 <fullyQualifiedTypeName name="Triangle2D"/>
 <fullyQualifiedTypeName name="MyPoint"/>
@@ -41,8 +40,11 @@
 <fullyQualifiedTypeName name="BinaryFormatException"/>
 <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
 <fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
